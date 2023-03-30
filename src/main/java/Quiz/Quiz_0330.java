@@ -11,7 +11,7 @@ public class Quiz_0330 {
             System.out.printf("%d * %d = %d \n", k, i, k*i);
             if (i == 9){
                 k++;
-                i = 1;
+                i = 0;
                 System.out.println();
             }
             if (k == 10)
