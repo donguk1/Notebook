@@ -1,6 +1,6 @@
 package StudyGroup;
 
-public class Star_2 {
+public class Jun1_1 {
     public static void main(String[] args) {
 
         int n =5;
