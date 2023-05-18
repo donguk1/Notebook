@@ -29,8 +29,7 @@ public class Quiz0417_B {
             }
         }
         int[] bb = new int[n];
-//        bw.write(n + "\n");
-//        bb 배열의 크기 확인을 위한 출력
+
 
 
         int b = 0;
@@ -41,7 +40,7 @@ public class Quiz0417_B {
             for (int j = 0; j < i; j++) {
                 if (aa[i] == aa[j]) {
 //                    중복된 값이면 boolean 값을 false 로 변경하고 j 반복문 탈출  false 로 변경
-//                    중복 확인을 하귀위한 중첩된 반복문 안에 있는 if문
+//                    중복 확인을 확인을 위한 중첩된 반복문 안에 있는 if문
                     bn = false;
                     break;
                 }

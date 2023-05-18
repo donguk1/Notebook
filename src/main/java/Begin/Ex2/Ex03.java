@@ -1,4 +1,4 @@
-package Ex2;
+package Begin.Ex2;
 
 import java.util.Scanner;
 

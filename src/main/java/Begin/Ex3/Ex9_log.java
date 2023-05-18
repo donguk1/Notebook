@@ -1,4 +1,4 @@
-package Ex3;
+package Begin.Ex3;
 
 public class Ex9_log {
     public static void main(String[] args) {
